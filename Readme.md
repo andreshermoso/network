@@ -8,13 +8,10 @@ Designing and proposing the complete physical and logical LAN layout, tailored t
 
 1. Preparing a comprehensive commercial proposal detailing:
 
-    Required human resources
-
-    Materials and equipment
-
-    Budget planning and cost estimates
-
-    Infrastructure sizing and scalability projections
+     - Required human resources
+     - Materials and equipment
+     - Budget planning and cost estimates
+     - Infrastructure sizing and scalability projections
 
 2. Overseeing end-to-end procurement and logistics, ensuring timely acquisition and distribution of all networking materials.
 
