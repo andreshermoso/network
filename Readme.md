@@ -6,7 +6,7 @@ My responsibilities included:
 
 Designing and proposing the complete physical and logical LAN layout, tailored to the building’s architectural specifications.
 
-Preparing a comprehensive commercial proposal detailing:
+1. Preparing a comprehensive commercial proposal detailing:
 
     Required human resources
 
@@ -16,8 +16,8 @@ Preparing a comprehensive commercial proposal detailing:
 
     Infrastructure sizing and scalability projections
 
-Overseeing end-to-end procurement and logistics, ensuring timely acquisition and distribution of all networking materials.
+2. Overseeing end-to-end procurement and logistics, ensuring timely acquisition and distribution of all networking materials.
 
-Installing and configuring a Linux Debian-based Primary Domain Controller on an IBM System x3250 1U rack server.
+3. Installing and configuring a Linux Debian-based Primary Domain Controller on an IBM System x3250 1U rack server.
 
-Deploying an Asterisk VoIP PBX solution with support for 16 FXO ports, servicing approximately 100 VoIP audio/video phones.
+4. Deploying an Asterisk VoIP PBX solution with support for 16 FXO ports, servicing approximately 100 VoIP audio/video phones.
