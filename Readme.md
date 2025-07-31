@@ -33,6 +33,8 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 
 ##
 
+__$${(i)}$$__ __Microwave Link__
+
 	MW - WiFi - WiMax LINKS								
 	Hops								
 		Type of link	Site X	Site Y	Distance (m)	Line of Sight	Bandwidth	Notes	
