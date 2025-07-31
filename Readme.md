@@ -21,12 +21,12 @@ Designing and proposing the complete physical and logical LAN layout, tailored t
 
 In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Consultores C.A., to manage a LAN and WAN implementation project.
 
-    1. The LAN infrastructure followed a similar framework to the 2006 project, encompassing:
+1. The LAN infrastructure followed a similar framework to the 2006 project, encompassing:
 
 - Engineering design
 - Business management coordination
 - Technical deployment and oversight
 
-    2. The WAN deployment required collaboration with a telecommunications provider to enable secure data routing across multiple nationwide networks.
+2. The WAN deployment required collaboration with a telecommunications provider to enable secure data routing across multiple nationwide networks.
 
-    3. My company successfully managed the entire project lifecycle, from planning and vendor coordination to final delivery and system validation.
+3. My company successfully managed the entire project lifecycle, from planning and vendor coordination to final delivery and system validation.
