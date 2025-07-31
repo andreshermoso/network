@@ -31,7 +31,9 @@ __In 2009,__ Thales Nederland B.V. signed a contract with my consulting firm, 3T
 
 3. My company successfully managed the entire project lifecycle, from planning and vendor coordination to final delivery and system validation.
 
-## __$${(i)}$$__ __WAN__
+##
+
+__$${(i)}$$__ __WAN__
 
 |Hop|Type of Link   |Site X|Site Y|Distance (m)|Line of Sight|Bandwidth|
 |:--|:--------------|:----:|:----:|:-----------|:------------|:--------|
