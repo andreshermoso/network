@@ -36,7 +36,8 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 __$${(i)}$$__ __Microwave Link__
 
 | __Hops__ | __Type of Link__ | __Site X__ | __Site Y__ | __Distance (m)__ | __Line of Sight__ | __Bandwidth__ |
-|   ----   |
+|   ----   |                  |            |            |                  |                   |               |
+| XXXXXXXX |                  |            |            |                  |                   |               |
 
 ##
 
