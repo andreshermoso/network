@@ -57,11 +57,11 @@ Third phase	Hop 9	MW link	s1-Pampatar coast radar mast	t-Repeater in Margarita	1
 									
 ##
 
-| Hops        | Description                               | Status     |
-| :---------- | :---------------------------------------- | :--------: |
-| Hop 1       | Allows users to sign in and out.          | Implemented |
-| Hop 2       | Exports data to various formats.          | In Progress |
-| Hotifications | Real-time alerts for user activity.     | Planned    |
+| Hops        | Type of Link                              | Site X                          |
+| :---------- | :---------------------------------------- | :-----------------------------: |
+| Hop 1       | Wireless short                            | a-Maracaibo-Harbour master      |
+| Hop 2       | Micro Wave link                           | b-Maracaibo-Port radar building |
+| Hop 3       | Real-time alerts for user activity        | Planned                         |
 
 
 ![Thales-Logo](https://github.com/user-attachments/assets/9cfa7e62-d511-45c4-b13c-a40ce802ac42)
