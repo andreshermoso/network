@@ -33,7 +33,6 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 
 ##
 
-<sub><sup>This text will be smaller</sup></sub>
 
 		Type of link	Site X	Site Y	Distance (m)	Line of Sight	Bandwidth	Notes	
 First phase	Hop 1	Wireless short link	a-Maracaibo-Harbour master	b-Maracaibo-Port radar building	700	Yes	5 Mb/s		
@@ -51,11 +50,11 @@ Third phase	Hop 9	MW link	s1-Pampatar coast radar mast	t-Repeater in Margarita	1
 									
 ##
 
-|Hops|Type of Link   | Site X                          | Site Y                          | Distance (m) | Line of Sight | Bandwidth |
-|:---|:--------------| :------------------------------ | :------------------------------ | :----------- | :-------------| :---------|
-| 1  |Wireless short | a-Maracaibo-Harbour master      | b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
-| 2  |Micro Wave link| b-Maracaibo-Port radar building | b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
-| 12 |               | Planned                         | b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
+|Hops|Type of Link   |Site X| Site Y                          | Distance (m) | Line of Sight | Bandwidth |
+|:---|:--------------|:---- | :------------------------------ | :----------- | :-------------| :---------|
+| 1  |Wireless short |a-Maracaibo-Harbour master| b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
+| 2  |Micro Wave link|b-Maracaibo-Port radar building| b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
+| 12 |               |Planned| b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
 
 
 ![Thales-Logo](https://github.com/user-attachments/assets/9cfa7e62-d511-45c4-b13c-a40ce802ac42)
