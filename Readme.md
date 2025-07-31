@@ -33,6 +33,7 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 
 ##
 
+<sub><sup>This text will be smaller</sup></sub>
 
 		Type of link	Site X	Site Y	Distance (m)	Line of Sight	Bandwidth	Notes	
 First phase	Hop 1	Wireless short link	a-Maracaibo-Harbour master	b-Maracaibo-Port radar building	700	Yes	5 Mb/s		
