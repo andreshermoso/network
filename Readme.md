@@ -4,6 +4,8 @@ In 2006, I was hired by Thales Nederland B.V. (Venezuela office) to lead the imp
 
 My responsibilities included:
 
+$${*}$$
+
 Designing and proposing the complete physical and logical LAN layout, tailored to the building’s architectural specifications.
 
 1. Preparing a comprehensive commercial proposal detailing:
