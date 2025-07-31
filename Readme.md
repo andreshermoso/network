@@ -50,5 +50,5 @@ __$${(i)}$$__ __WAN__
 |11|Wireless short link|s-Pampatar harbour master|s1-Pampatar coast radar mast|800|TBD|4 Mb/s|
 |12|Wireless short link|v-Guiria-Harbour master|w-Guiria-Port radar mast|500|Yes|4 Mb/s|
 
-<img width="92" height="350" alt="3T" src="https://github.com/user-attachments/assets/83e04599-9eca-472f-8ad0-92e03e2189b1" />
+<img width="92" height="350" align="right" alt="3T" src="https://github.com/user-attachments/assets/83e04599-9eca-472f-8ad0-92e03e2189b1" />
 
