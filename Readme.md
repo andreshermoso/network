@@ -30,3 +30,5 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 2. The WAN deployment required collaboration with a telecommunications provider to enable secure data routing across multiple nationwide networks.
 
 3. My company successfully managed the entire project lifecycle, from planning and vendor coordination to final delivery and system validation.
+
+![Thales-Logo](https://github.com/user-attachments/assets/9cfa7e62-d511-45c4-b13c-a40ce802ac42)
