@@ -4,8 +4,6 @@ In 2006, I was hired by Thales Nederland B.V. (Venezuela office) to lead the imp
 
 My responsibilities included:
 
-__$${*}$$__
-
 Designing and proposing the complete physical and logical LAN layout, tailored to the building’s architectural specifications.
 
 1. Preparing a comprehensive commercial proposal detailing:
@@ -21,7 +19,7 @@ Designing and proposing the complete physical and logical LAN layout, tailored t
 
 4. Deploying an Asterisk VoIP PBX solution with support for 16 FXO ports, servicing approximately 100 VoIP audio/video phones.
 
-In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Consultores C.A., to manage a LAN and WAN$${*}$$ implementation project.
+In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Consultores C.A., to manage a LAN and __$${*}$$__ __WAN__ implementation project.
 
 1. The LAN infrastructure followed a similar framework to the 2006 project, encompassing:
 
