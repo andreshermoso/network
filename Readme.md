@@ -19,7 +19,7 @@ Designing and proposing the complete physical and logical LAN layout, tailored t
 
 4. Deploying an Asterisk VoIP PBX solution with support for 16 FXO ports, servicing approximately 100 VoIP audio/video phones.
 
-In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Consultores C.A., to manage a LAN and __WAN__ __$${(i)}$$__ implementation project.
+In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Consultores C.A., to manage a LAN and [__WAN__ __$${(i)}$$__](#linky) implementation project.
 
 1. The LAN infrastructure followed a similar framework to the 2006 project, encompassing:
 
@@ -30,7 +30,8 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 2. The WAN deployment required collaboration with a telecommunications provider to enable secure data routing across multiple nationwide networks.
 
 3. My company successfully managed the entire project lifecycle, from planning and vendor coordination to final delivery and system validation.
-		
+
+#linky
 ## __$${(i)}$$__ __WAN__
 
 |Hop|Type of Link   |Site X|Site Y|Distance (m)|Line of Sight|Bandwidth|
@@ -47,3 +48,5 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 |10|Micro Wave link|t-Repeater in Margarita|u-Punta de Piedras|24000|TBD|1 Mb/s|
 |11|Wireless short link|s-Pampatar harbour master|s1-Pampatar coast radar mast|800|TBD|4 Mb/s|
 |12|Wireless short link|v-Guiria-Harbour master|w-Guiria-Port radar mast|500|Yes|4 Mb/s|
+
+
