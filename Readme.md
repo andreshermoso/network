@@ -1,6 +1,6 @@
 ## Professional Experience – Network Infrastructure Design & Deployment
 
-In 2006, I was hired by Thales Nederland B.V. (Venezuela office) to lead the implementation of a Local Area Network (LAN) for a newly constructed two-story office building with 48 independent workspaces.
+__In 2006,__ I was hired by Thales Nederland B.V. (Venezuela office) to lead the implementation of a Local Area Network (LAN) for a newly constructed two-story office building with 48 independent workspaces.
 
 My responsibilities included:
 
@@ -19,7 +19,7 @@ Designing and proposing the complete physical and logical LAN layout, tailored t
 
 4. Deploying an Asterisk VoIP PBX solution with support for 16 FXO ports, servicing approximately 100 VoIP audio/video phones.
 
-In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Consultores C.A., to manage a LAN and __WAN__ __$${(i)}$$__ implementation project.
+__In 2009,__ Thales Nederland B.V. signed a contract with my consulting firm, 3T Consultores C.A., to manage a LAN and __WAN__ __$${(i)}$$__ implementation project.
 
 1. The LAN infrastructure followed a similar framework to the 2006 project, encompassing:
 
