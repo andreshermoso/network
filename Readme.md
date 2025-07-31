@@ -31,6 +31,8 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 
 3. My company successfully managed the entire project lifecycle, from planning and vendor coordination to final delivery and system validation.
 
+##
+
 	MW - WiFi - WiMax LINKS								
 	Hops								
 		Type of link	Site X	Site Y	Distance (m)	Line of Sight	Bandwidth	Notes	
