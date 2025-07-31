@@ -52,3 +52,4 @@ __$${(i)}$$__ __WAN__
 
 <img width="92" height="350" align="right" alt="3T" src="https://github.com/user-attachments/assets/83e04599-9eca-472f-8ad0-92e03e2189b1" />
 
+![Thales-Logo](https://github.com/user-attachments/assets/45cbca38-a67e-4793-9836-75e7a1d9abd0)
