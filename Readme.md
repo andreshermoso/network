@@ -55,7 +55,13 @@ Third phase	Hop 9	MW link	s1-Pampatar coast radar mast	t-Repeater in Margarita	1
 	Hop 11	Wireless short link	s-Pampatar harbour master	s1-Pampatar coast radar mast	800	To be define	4 Mb/s		
 	Hop 12	Wireless short link	v-Guiria-Harbour master	w-Guiria-Port radar mast	500	Yes	4 Mb/s		
 									
+##
 
+| Feature     | Description                               | Status     |
+| :---------- | :---------------------------------------- | :--------: |
+| User Login  | Allows users to sign in and out.          | Implemented |
+| Data Export | Exports data to various formats.          | In Progress |
+| Notifications | Real-time alerts for user activity.     | Planned    |
 
 
 ![Thales-Logo](https://github.com/user-attachments/assets/9cfa7e62-d511-45c4-b13c-a40ce802ac42)
