@@ -50,8 +50,8 @@ Third phase	Hop 9	MW link	s1-Pampatar coast radar mast	t-Repeater in Margarita	1
 									
 ##
 
-|Hops|Type of Link   |Site X| Site Y                          | Distance (m) | Line of Sight | Bandwidth |
-|:---|:--------------|:---- | :------------------------------ | :----------- | :-------------| :---------|
+|Hops|Type of Link   |Site X|Site Y|Distance (m)|Line of Sight|Bandwidth|
+|:---|:--------------|:---- |:---- |:-----------|:------------|:--------|
 | 1  |Wireless short |a-Maracaibo-Harbour master| b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
 | 2  |Micro Wave link|b-Maracaibo-Port radar building| b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
 | 12 |               |Planned| b-Maracaibo-Port radar building | 700          | YES           | 5 MB/s    |
