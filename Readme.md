@@ -35,8 +35,8 @@ In 2009, Thales Nederland B.V. signed a contract with my consulting firm, 3T Con
 
 __$${(i)}$$__ __Microwave Link__
 
-	MW - WiFi - WiMax LINKS								
-	Hops								
+| __Hops__ | __Type of Link__ | __Site X__ | __Site Y__ | __Distance (m)__ | __Line of Sight__ | __Bandwidth__ |
+|   ----   |
 		Type of link	Site X	Site Y	Distance (m)	Line of Sight	Bandwidth	Notes	
 First phase	Hop 1	Wireless short link	a-Maracaibo-Harbour master	b-Maracaibo-Port radar building	700	Yes	5 Mb/s		
 	Hop 2	MW link	b-Maracaibo-Port radar building	c-El Aceituno	16500	To be define	1 Mb/s		
