@@ -57,11 +57,11 @@ Third phase	Hop 9	MW link	s1-Pampatar coast radar mast	t-Repeater in Margarita	1
 									
 ##
 
-| Feature     | Description                               | Status     |
+| Hops        | Description                               | Status     |
 | :---------- | :---------------------------------------- | :--------: |
-| User Login  | Allows users to sign in and out.          | Implemented |
-| Data Export | Exports data to various formats.          | In Progress |
-| Notifications | Real-time alerts for user activity.     | Planned    |
+| Hop 1       | Allows users to sign in and out.          | Implemented |
+| Hop 2       | Exports data to various formats.          | In Progress |
+| Hotifications | Real-time alerts for user activity.     | Planned    |
 
 
 ![Thales-Logo](https://github.com/user-attachments/assets/9cfa7e62-d511-45c4-b13c-a40ce802ac42)
