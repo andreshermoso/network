@@ -1,6 +1,6 @@
 ## Professional Experience – Network Infrastructure Design & Deployment
 
-__In 2006,__ I was hired by Thales Nederland B.V. (Venezuela office) to lead the implementation of a Local Area Network (LAN) for a newly constructed two-story office building with 48 independent workspaces.
+__In 2006,__ I was hired by Thales Nederland B.V. (Caribbean region office) to lead the implementation of a Local Area Network (LAN) for a newly constructed two-story office building with 48 independent workspaces.
 
 My responsibilities included:
 
